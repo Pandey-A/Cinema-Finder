@@ -1,14 +1,20 @@
 # Cinema-Finder
 1. Clone the repository:
    ```bash
-   git clone https://github.com/code100x/cms.git
+      https://github.com/Pandey-A/Cinema-Finder.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd cms
+   cd client
    ```
-3. Run the following command to start the application:
-
+3. Run the following command to start the application client side:
+   ```bash
+   npm start
+   ```
+4.3. Run the following command to start the application server side:
+   ```bash
+   npm start
+   ```
 
 
 
