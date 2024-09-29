@@ -1,0 +1,24 @@
+[
+    {
+        "name": "The Batman",
+        "img": "https://cdn.moviestillsdb.com/storage/posters/6e/1877830_150.jpg",
+        "year": "2022",
+        "genre": ["Action"],
+        "rating": "10.0"
+    },
+    {
+        "name": "Top Gun Maverick",
+        "img": "https://cdn.moviestillsdb.com/storage/posters/2a/1745960_150.jpg",
+        "year": "2022",
+        "genre": ["Action"],
+        "rating": "9.1"
+    },
+    {
+        "name": "Joker",
+        "img": "https://cdn.moviestillsdb.com/storage/posters/33/11315808_150.jpg",
+        "year": "2024",
+        "genre": ["Thriller"],
+        "rating": "9.8"
+    }
+    
+]

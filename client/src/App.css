@@ -1,0 +1,42 @@
+
+
+.container {
+	width: 100%;
+	border-radius: 0px;
+	box-shadow: var(--box-shadow);
+	display: flex;
+	flex-direction: column;
+	overflow: hidden;
+	background-color: white;
+}
+
+.head {
+	display: flex;
+	height: 100px;
+	background-color: black;
+	justify-content: space-between;
+}
+.logo {
+  display: flex;
+  justify-content: left;
+}
+
+.logo {
+	width: 100px;
+	object-fit: contain;
+	margin-left: 15px;
+}
+
+.body {
+	height: 710px;
+	display: flex;
+}
+
+.table_container {
+	flex: 5;
+	position: relative;
+}
+
+.filter_container {
+	flex: 1;
+}
